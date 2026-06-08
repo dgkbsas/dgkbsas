@@ -16,6 +16,15 @@ Currently **Product Builder @ [Wúru](https://www.wuru.ai)** — design + fronte
 
 **What I work with**
 
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Motion-0055FF?style=flat&logo=framer&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
 - **Design & product** — Figma · Rhinoceros · KeyShot · UX research · service design · product discovery · usability
 - **Frontend** — React · Next.js · TypeScript · Tailwind · Svelte · Motion · design tokens · accessibility
 - **AI & agents** — Claude Code (daily) · Anthropic API · MCP · layered prompt design
