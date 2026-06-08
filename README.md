@@ -16,10 +16,10 @@ Currently **Product Builder @ [Wúru](https://www.wuru.ai)** — design + fronte
 
 **What I work with**
 
-`Design & product` Figma · Rhinoceros · KeyShot · UX research · service design · product discovery · usability
-`Frontend` React · Next.js · TypeScript · Tailwind · Svelte · Motion · design tokens · accessibility
-`AI & agents` Claude Code (daily) · Anthropic API · MCP · layered prompt design
-`Data & infra` Supabase · Firebase · PostgreSQL · Vercel · n8n · PostHog
+- **Design & product** — Figma · Rhinoceros · KeyShot · UX research · service design · product discovery · usability
+- **Frontend** — React · Next.js · TypeScript · Tailwind · Svelte · Motion · design tokens · accessibility
+- **AI & agents** — Claude Code (daily) · Anthropic API · MCP · layered prompt design
+- **Data & infra** — Supabase · Firebase · PostgreSQL · Vercel · n8n · PostHog
 
 ---
 
