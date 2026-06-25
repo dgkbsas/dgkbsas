@@ -34,4 +34,4 @@ Currently **Product Builder @ [Wúru](https://www.wuru.ai)** — design + fronte
 
 **The arc** — each step removed a handoff: industrial design → UX rigor → product designer → shipping my own designs → today most of what I design, I build.
 
-[Portfolio](https://dgk.vercel.app) · [LinkedIn](https://www.linkedin.com/in/diegogonzalezking/) · dgkbsas@gmail.com · Buenos Aires
+[Portfolio](https://dgkbsas.vercel.app) · [LinkedIn](https://www.linkedin.com/in/diegogonzalezking/) · dgkbsas@gmail.com · Buenos Aires
